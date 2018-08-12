@@ -59,8 +59,13 @@ hr.half {
   background-image:      -o-linear-gradient(left, #000, #999, #000);
 }
 
+table {
+  margin-left: auto;
+  margin-right: auto
+}
+
 /**  
-* 吹き出しテーブル 
+* 蜷ｹ縺榊�ｺ縺励ユ繝ｼ繝悶Ν 
 **/
 table.company {
 width: 500px;
