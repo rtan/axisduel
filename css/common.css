@@ -1,0 +1,55 @@
+/* Gradient transparent - color - transparent */
+
+body {
+  background-color: #000;
+  background-image: url(../img/bg2.png);
+  background-size: cover;
+  font-family: 'Cinzel', serif;
+  color: #dddddd;
+  text-align:center;
+}
+
+h2{
+  font-weight: lighter;
+  margin:0px;
+  margin-bottom:-15px;
+}
+
+h3{
+  font-weight: lighter;
+  margin:0px;
+  margin-bottom:-10px;
+}
+
+h4{
+  font-weight: lighter;
+  margin:0px;
+  margin-bottom:-15px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  width: 80%;
+  background: #ccc;
+  background-image: -webkit-linear-gradient(left, #000, #ccc, #000);
+  background-image:    -moz-linear-gradient(left, #000, #ccc, #000);
+  background-image:     -ms-linear-gradient(left, #000, #ccc, #000);
+  background-image:      -o-linear-gradient(left, #000, #ccc, #000);
+}
+hr.half {
+  border: 0;
+  height: 1px;
+  width: 50%;
+  background: #ccc;
+  background-image: -webkit-linear-gradient(left, #000, #999, #000);
+  background-image:    -moz-linear-gradient(left, #000, #999, #000);
+  background-image:     -ms-linear-gradient(left, #000, #999, #000);
+  background-image:      -o-linear-gradient(left, #000, #999, #000);
+}
+
+table {
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto
+}
