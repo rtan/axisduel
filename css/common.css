@@ -5,8 +5,12 @@
 
 body {
   background-color: #000;
-  background-image: url(../img/bg2.png);
+  background-image: url(../img/bg.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
+  
   font-family: 'Cinzel', 'Noto Sans JP', serif;
   color: #dddddd;
   text-align:center;
