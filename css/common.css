@@ -21,9 +21,11 @@ body {
 span.small {
   font-size: 0.7em;
 }
-span {
+/*
+ span {
   font-size: 0.8em;
 }
+*/
 
 h2{
   font-weight: lighter;
